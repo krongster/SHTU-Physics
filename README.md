@@ -1,4 +1,4 @@
 # 上科大物理论坛
-books:参考书籍
+book:参考书籍
 
-notes:笔记
+note:笔记
